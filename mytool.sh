@@ -62,7 +62,7 @@ echo $green"memeriksa cuaca..."
 sleep 5
 echo $green"Perkiraan 20 detik"
 sleep 10
-curl http://wttr.in/muntilan
+curl http://wttr.in/indonesia
 fi
 
 if [ $laura = 0 ] || [ $laura = 0 ]
